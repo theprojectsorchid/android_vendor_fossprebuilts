@@ -1,0 +1,228 @@
+android_app_import {
+        name: "AdAway",
+        apk: "AdAway/AdAway.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "aperture",
+        apk: "aperture/aperture.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "appman",
+        apk: "appman/appman.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "athena",
+        apk: "athena/athena.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "aves",
+        apk: "aves/aves.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "BromiteSystemWebview",
+        required: [
+            "libwebviewchromium_loader",
+            "libwebviewchromium_plat_support",
+        ],
+        apk: "BromiteSystemWebview/BromiteSystemWebview.apk",
+        overrides: ["webview"],
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+
+}
+
+android_app_import {
+        name: "cal",
+        apk: "cal/cal.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "cleanerplus",
+        apk: "cleanerplus/cleanerplus.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+
+android_app_import {
+        name: "connectyou",
+        apk: "connectyou/connectyou.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+
+android_app_import {
+        name: "datamonitor",
+        apk: "datamonitor/datamonitor.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+
+android_app_import {
+        name: "dualwall",
+        apk: "dualwall/dualwall.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "gpt",
+        apk: "gpt/gpt.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+
+android_app_import {
+        name: "imagetool",
+        apk: "imagetool/imagetool.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+
+android_app_import {
+        name: "libretube",
+        apk: "libretube/libretube.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "mybrain",
+        apk: "mybrain/mybrain.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "prow",
+        apk: "prow/prow.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "qksms",
+        apk: "qksms/qksms.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "qtiles",
+        apk: "qtiles/qtiles.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "recordyou",
+        apk: "recordyou/recordyou.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "rethink",
+        apk: "rethink/rethink.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "taptap",
+        apk: "taptap/taptap.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+
+android_app_import {
+        name: "Telegram",
+        apk: "Telegram/Telegram.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+android_app_import {
+        name: "translate",
+        apk: "translate/translate.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
+
+
+android_app_import {
+        name: "wifiinfo",
+        apk: "wifiinfo/wifiinfo.apk",
+        presigned: true,
+        dex_preopt: {
+                enabled: false,
+        },
+}
